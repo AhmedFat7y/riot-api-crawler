@@ -8,5 +8,8 @@
     "type": "git"
   },
   "author": "Ahmed Abdelwahab",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "leagueapi": "^0.4.21"
+  }
 }

@@ -4,7 +4,7 @@
   "description": "A crawler to gather data from Riot API",
   "main": "index.js",
   "repository": {
-    "url": "git@github.com:AhmedFat7y/riot-api-crawler.git",
+    "url": "https://github.com/AhmedFat7y/riot-api-crawler",
     "type": "git"
   },
   "author": "Ahmed Abdelwahab",
